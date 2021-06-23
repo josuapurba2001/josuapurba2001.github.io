@@ -1,0 +1,813 @@
+/* Form Login */
+
+position: relative;
+width: 1440px;
+height: 900px;
+
+background: #FFFFFF;
+
+
+/* Group 434 */
+* {
+position: absolute;
+width: 1443px;
+height: 900px;
+left: 0px;
+top: 0px;
+}
+
+
+/* Rectangle 157 */
+.form1 {
+position: absolute;
+width: 587px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #21206C 0%, #18175B 100%);
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Rectangle 162 */
+form {
+position: absolute;
+width: 56%;
+height: 900px;
+left: 587px;
+top: 0;
+
+text-align: center;
+background: #FFFFFF;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.form {
+    margin: 15% 20%;
+    width: 70%;
+    text-align: left;
+}
+.email input{
+    padding: 15px 120px;
+    background-color: ghostwhite;
+    border: 1px solid #dcdcdc;
+    color: black;
+}
+
+.password input {
+    padding: 15px 120px;
+    background-color: ghostwhite;
+    border: 1px solid #dcdcdc;
+}
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    border: 2px solid;
+    border-right-width: 3px solid;
+}
+.title p {
+    color: darkgrey;
+}
+.checkbox {
+    display: inline-block;
+}
+.checkbox input {
+    display: inline-block;
+    
+}
+.checkbox a {
+    display: inline-block;
+    margin-left: 120px;
+}
+
+.button .button1 input{
+    padding: 12px 35%;
+    background-color: #21206C;
+    border: 1px solid #dcdcdc;
+    color: #FFFFFF;
+}
+.button .button2 input {
+    padding: 12px 146px;
+    border: 1px solid #dcdcdc;
+}
+.circle1 {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    width: 70%;
+    height: 70%;
+    margin: 0 40px;
+    border-radius: 20%;
+    clip-path: circle(150px at top );
+    background: rgba(255, 255, 255, 0.03);
+}
+.circle2 {
+    position: absolute;
+    top: 0;
+    width: 120%;
+    height: 79%;
+    border-radius: 30%;
+    clip-path: circle(200px at bottom);
+    background: rgba(255, 255, 255, 0.03);
+    margin: 30% 80px;
+    right: 30%;
+}
+/* Group 436 */
+
+position: absolute;
+width: 1430px;
+height: 1864px;
+left: -418px;
+top: -505px;
+
+
+
+/* Ellipse 32 */
+
+position: absolute;
+width: 710px;
+height: 710px;
+left: -418px;
+top: 649px;
+
+background: rgba(255, 255, 255, 0.03);
+
+
+/* Ellipse 32 */
+
+position: absolute;
+width: 710px;
+height: 710px;
+left: 302px;
+top: -505px;
+
+background: rgba(255, 255, 255, 0.03);
+
+
+/* Group 387 */
+.logo {
+position: absolute;
+width: 90.15px;
+height: 38.38px;
+left: 74px;
+top: 75px;
+}
+
+
+/* Near */
+figure figcaption {
+position: absolute;
+width: 36px;
+height: 19px;
+left: 128.15px;
+top: 84px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16.5883px;
+line-height: 19px;
+color: #FFFFFF;
+}
+
+
+/* Group 386 */
+.logo figure {
+position: absolute;
+width: 38.38px;
+height: 38.38px;
+left: 74px;
+top: 75px;
+}
+
+
+/* Rectangle 158 */
+figure img{
+position: absolute;
+width: 38.38px;
+height: 38.38px;
+left: 74px;
+top: 75px;
+background: #FFFFFF;
+border-radius: 2.95263px;
+}
+
+/* Group 411 */
+article {
+position: absolute;
+width: 436px;
+height: 286.4px;
+left: 78px;
+top: 250px;
+}
+
+
+/* Group 400 */
+article section {
+position: absolute;
+width: 436px;
+height: 193.42px;
+left: 78px;
+top: 250px;
+}
+
+
+/* Are you looking for a job? there are lots job avaible here ----- */
+article section h3 {
+position: absolute;
+width: 436px;
+height: 200px;
+right:  20%;
+bottom: 250px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 25.7718px;
+line-height: 130.4%;
+/* or 39px */
+
+color: #FFFFFF;
+}
+
+
+/* Immediately check your dream career opportunity here */
+article section p {
+position: absolute;
+width: 263.02px;
+height: 70px;
+right: 60%;
+bottom: 250px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 18.2708px;
+line-height: 130.4%;
+/* or 24px */
+
+color: rgba(255, 255, 255, 0.5);
+}
+
+
+/* Group 410 */
+.contact {
+width: 60%;
+position: absolute;
+display: inline-block;
+top: 65%;
+color: #FFFFFF;
+right: 50%;
+}
+.contact ul {
+    display: inline-block;
+    position: relative;
+    
+    
+}
+.contact ul .medsos li{
+    display: inline-block;
+    
+    margin-right: 24px;
+    padding: 20px 5px 0 7px;
+}
+.contact ul hr {
+    display: inline-block;
+    margin-right: 15px;
+    border: 1px solid;
+    width: 33px;
+    color: gray;
+}
+.contact ul #rule1 {
+    color: #FFFFFF;
+}
+/* Group 409 */
+.footer {
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    top: 50em;
+    
+}
+.footer ul {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+}
+.footer ul li {
+    display: inline-block;
+    position: relative;
+    margin-right: 35px;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+
+/* Privacy Policy */
+
+position: absolute;
+width: 72.8px;
+height: 13.74px;
+left: 78px;
+top: 825.07px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 11.6031px;
+line-height: 14px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.9);
+}
+
+
+/* Contact */
+
+position: absolute;
+width: 41px;
+height: 14px;
+left: 186px;
+top: 825.07px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 11.6031px;
+line-height: 14px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.9);
+}
+
+
+/* © 2020 Near Job */
+
+position: absolute;
+width: 88.78px;
+height: 12.43px;
+left: 262.66px;
+top: 825.07px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 11.6031px;
+line-height: 14px;
+
+color: rgba(255, 255, 255, 0.9);
+}
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 102px;
+height: 39px;
+left: 70px;
+top: 74px;
+
+
+
+/* Vector 43 */
+
+position: absolute;
+width: 19px;
+height: 16px;
+left: 14px;
+top: 12px;
+
+background: #201F6A;
+
+
+/* Frame 2 */
+
+position: absolute;
+width: 9px;
+height: 74px;
+left: 82px;
+top: 0px;
+
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 2px;
+height: 43px;
+left: 4px;
+top: 73px;
+
+
+
+/* Frame 5 */
+
+position: absolute;
+width: 7px;
+height: 47px;
+left: 78px;
+top: 853px;
+
+
+
+/* Frame 6 */
+
+position: absolute;
+width: 513px;
+height: 561px;
+left: 780px;
+top: 162px;
+
+
+
+/* Group 398 */
+
+position: absolute;
+width: 302px;
+height: 79.18px;
+left: 16px;
+top: 15px;
+
+
+
+/* Welcome Back */
+
+position: absolute;
+width: 237px;
+height: 42px;
+left: 16px;
+top: 15px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35.6608px;
+line-height: 42px;
+/* identical to box height */
+
+color: #2B3C53;
+
+
+
+/* Let’s sign in to your account */
+
+position: absolute;
+width: 302px;
+height: 27.37px;
+left: 16px;
+top: 66.8px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 22.5947px;
+line-height: 26px;
+
+color: rgba(27, 26, 96, 0.5);
+
+
+
+/* Group 417 */
+
+position: absolute;
+width: 485.94px;
+height: 415.02px;
+left: 16px;
+top: 127.18px;
+
+
+
+/* Group 397 */
+
+position: absolute;
+width: 485.94px;
+height: 329.02px;
+left: 16px;
+top: 127.18px;
+
+
+
+/* Group 396 */
+
+position: absolute;
+width: 485.94px;
+height: 229.44px;
+left: 16px;
+top: 127.18px;
+
+
+
+/* Group 395 */
+
+position: absolute;
+width: 485.94px;
+height: 195.19px;
+left: 16px;
+top: 127.18px;
+
+
+
+/* Group 393 */
+
+position: absolute;
+width: 485.94px;
+height: 85.32px;
+left: 16px;
+top: 127.18px;
+
+
+
+/* Email Address */
+
+position: absolute;
+width: 110.64px;
+height: 17.49px;
+left: 16px;
+top: 127.18px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14.6384px;
+line-height: 17px;
+/* identical to box height */
+
+color: #1D1C65;
+
+
+
+/* Group 388 */
+
+position: absolute;
+width: 485.94px;
+height: 57.93px;
+left: 16px;
+top: 154.57px;
+
+
+
+/* Rectangle 159 */
+
+position: absolute;
+width: 485.94px;
+height: 57.93px;
+left: 16px;
+top: 154.57px;
+
+border: 1px solid #D7DBE0;
+box-sizing: border-box;
+border-radius: 3.08571px;
+
+
+/* yourmail@email.com */
+
+position: absolute;
+width: 150.41px;
+height: 15.9px;
+left: 40.3px;
+top: 173.23px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13.3076px;
+line-height: 16px;
+/* identical to box height */
+
+color: #D1D7DF;
+
+
+
+/* Group 394 */
+
+position: absolute;
+width: 485.94px;
+height: 85.32px;
+left: 16px;
+top: 237.04px;
+
+
+
+/* Password */
+
+position: absolute;
+width: 110.64px;
+height: 17.49px;
+left: 16px;
+top: 237.04px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14.6384px;
+line-height: 17px;
+/* identical to box height */
+
+color: #1D1C65;
+
+
+
+/* Group 388 */
+
+position: absolute;
+width: 485.94px;
+height: 57.93px;
+left: 16px;
+top: 264.44px;
+
+
+
+/* Rectangle 159 */
+
+position: absolute;
+width: 485.94px;
+height: 57.93px;
+left: 16px;
+top: 264.44px;
+
+border: 1px solid #D7DBE0;
+box-sizing: border-box;
+border-radius: 3.08571px;
+
+
+/* ********** */
+
+position: absolute;
+width: 109.11px;
+height: 13px;
+left: 40.75px;
+top: 286.19px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.2em;
+
+color: #D1D7DF;
+
+
+
+/* Group 391 */
+
+position: absolute;
+width: 430.98px;
+height: 15.43px;
+left: 17.96px;
+top: 341.19px;
+
+
+
+/* Rectangle 160 */
+
+position: absolute;
+width: 14.4px;
+height: 14.4px;
+left: 17.96px;
+top: 341.19px;
+
+border: 1.02857px solid #D7DBE0;
+box-sizing: border-box;
+border-radius: 2.05714px;
+
+
+/* I agree with the rules */
+
+position: absolute;
+width: 115px;
+height: 14px;
+left: 43px;
+top: 342.19px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 11.1053px;
+line-height: 13px;
+
+color: #1D1C65;
+
+
+
+/* Forgotten password? */
+
+position: absolute;
+width: 113.14px;
+height: 15.43px;
+left: 335.8px;
+top: 341.19px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 11.8986px;
+line-height: 14px;
+
+color: #1A195F;
+
+
+
+/* Group 392 */
+
+position: absolute;
+width: 485.94px;
+height: 72px;
+left: 16px;
+top: 384.19px;
+
+
+
+/* Rectangle 159 */
+
+position: absolute;
+width: 485.94px;
+height: 72px;
+left: 16px;
+top: 384.19px;
+
+background: #1A195F;
+border-radius: 3.08571px;
+
+
+/* Sign Up */
+
+position: absolute;
+width: 74.05px;
+height: 23.04px;
+left: 221.42px;
+top: 408.74px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 19.0377px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+
+/* Group 415 */
+
+position: absolute;
+width: 485.94px;
+height: 71px;
+left: 16px;
+top: 471.19px;
+
+
+
+/* Rectangle 159 */
+
+position: absolute;
+width: 485.94px;
+height: 71px;
+left: 16px;
+top: 471.19px;
+
+border: 1.54286px solid #D7DBE0;
+box-sizing: border-box;
+border-radius: 3.08571px;
+
+
+/* Group 408 */
+
+position: absolute;
+width: 220.86px;
+height: 25.89px;
+left: 147.61px;
+top: 491.32px;
+
+
+
+/* Sign Up with Google */
+
+position: absolute;
+width: 172.5px;
+height: 20.04px;
+left: 195.98px;
+top: 494px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16.8947px;
+line-height: 20px;
+
+color: #757492;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 28.77%;
+right: 65.66%;
+top: 87.58%;
+bottom: 7.81%;
+
+background: #757492;
